@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MinhaSenha</string>
+    <string name="txtHintPlace" >Lugar?</string>
+    <string name="txtHintPhrase">Informe uma frase</string>
+    <string name="txtButton">Gerar!</string>
+    <string name="txtHintAnswer">Senha</string>
+</resources>
